@@ -1805,3 +1805,27 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width 1200px */
+
+
+/*Harsh Karwa*/
+
+/* --------------------------------------------------------------------------- */
+/* .objectives{
+	display: flex;
+	flex-direction: row;
+	gap: 1em;
+	justify-content: space-around;
+}
+.card{
+	margin: 0;
+} */
+.objectives {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    flex: 1;
+    margin: 0 10px; /* Adjust the margin as needed */
+}
+
